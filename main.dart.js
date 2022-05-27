@@ -87464,7 +87464,7 @@ i=i.k1
 p=j.f
 o=A.eG(B.q,16)
 n=A.c([new A.Rs(j.a.z,k)],t.VS)
-if(j.a.Q)n.push(new A.AI(A.cA("^\\d+\\.?\\d{0,3}",!0),!0,""))
+if(j.a.Q)n.push(new A.AI(A.cA("^\\d+\\.?\\d{0,4}",!0),!0,""))
 m=j.a.x
 l=A.eG(B.ne,16)
 return A.K(k,A.b9y(j.d,B.eQ,A.aTl(k,B.Lx,k,B.FA,k,k,k,k,!0,new A.hq(4,B.cl,new A.du(this.a.a,1,B.aV)),k,k,k,k,k,k,k,k,k,k,new A.hq(4,B.cl,new A.du(B.ne,1,B.aV)),k,k,k,k,k,l,m,k,k,k,k,!1,k,k,k,k,k,k,k,k,k,k,k,k,this.c.$0(),k,k,k,k),r,j.e,n,p,new A.aqE(j),o),B.m,s,k,k,k,q,k,k,k,k,i)},
