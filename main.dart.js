@@ -82850,7 +82850,7 @@ n=J.b(p.h(q,"Barcode"))
 if(J.b(p.h(q,"Result"))==="null")m="NO PO"
 else m=J.b(p.h(q,"Result"))===""?"WAITTING":"READY"
 a1.push(new A.dq(o,n,m,J.b(p.h(q,"Result"))))}}}s=13
-return A.T(A.bq(null).aV("http://172.101.33.188:1880/getPARTICALSIZE",A.E(a2,a2),a2),$async$eh)
+return A.T(A.bq(null).aV("http://172.101.33.188:1880/getPARTICLESIZE",A.E(a2,a2),a2),$async$eh)
 case 13:b=a7
 if(b.d===200){q=b.a
 if(q!=null){p=J.a9(q)
