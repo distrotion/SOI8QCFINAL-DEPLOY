@@ -4,9 +4,10 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "16a9a03781479eda787836a3fc96c7c3",
-"index.html": "862a4a3f7b11a0273ec648f566151fc8",
-"/": "862a4a3f7b11a0273ec648f566151fc8",
-"main.dart.js": "525dda9f88674e30b870e1ac1ffe2944",
+"index.html": "2dc31524210d683b912fa8b82555eff9",
+"/": "2dc31524210d683b912fa8b82555eff9",
+"main.dart.js": "423394e09442b20cbde95bc321549920",
+"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -14,7 +15,7 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "9dcdab3007e48600b0baabf3d08e1893",
 "assets/AssetManifest.json": "a1d59137ded1be90f0e11e608c0c0725",
-"assets/NOTICES": "3e2b853cff8d8bdae39cce3af9bc81fd",
+"assets/NOTICES": "06ca83adcdcd24ed3ca29d9bb9cdcc34",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/shaders/ink_sparkle.frag": "064fdefce5eb604f6f1088c05e740e3b",
@@ -25,7 +26,11 @@ const RESOURCES = {
 "assets/assets/icons/icon-notifications.png": "01e90e91bd50b2eb166784bac884b7e3",
 "assets/assets/icons/icon-correct@2x-green.png": "70325b6ace4a1fb08f6cdae73f72bb74",
 "assets/assets/icons/icon-caution@3x.png": "8f984d63371c3c065a6600c8a3ce4610",
-"assets/assets/icons/icon-error@3x.png": "e5b60c16a6694859a9a342e66dc09609"
+"assets/assets/icons/icon-error@3x.png": "e5b60c16a6694859a9a342e66dc09609",
+"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
+"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
+"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
+"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62"
 };
 
 // The application shell files that are downloaded before a service worker can
